@@ -1,0 +1,16 @@
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\IBusinessLogicLayer.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\IBusinessLogicLayer.pdb
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\IDataAccessLayer.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\Playlistify.DatabaseContext.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\IDataAccessLayer.pdb
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\Playlistify.DatabaseContext.pdb
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\Playlistify.DatabaseContext.dll.config
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\obj\Debug\IBusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\obj\Debug\IBusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\obj\Debug\IBusinessLogicLayer.csproj.CopyComplete
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\obj\Debug\IBusinessLogicLayer.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IBusinessLogicLayer\obj\Debug\IBusinessLogicLayer.pdb

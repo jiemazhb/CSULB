@@ -1,0 +1,12 @@
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\bin\Debug\IDataAccessLayer.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\bin\Debug\IDataAccessLayer.pdb
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\bin\Debug\Playlistify.DatabaseContext.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\bin\Debug\Playlistify.DatabaseContext.pdb
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\bin\Debug\Playlistify.DatabaseContext.dll.config
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\obj\Debug\IDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\obj\Debug\IDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\obj\Debug\IDataAccessLayer.csproj.CopyComplete
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\obj\Debug\IDataAccessLayer.dll
+C:\Users\16265\Desktop\school\school project\Playlistify\IDataAccessLayer\obj\Debug\IDataAccessLayer.pdb
